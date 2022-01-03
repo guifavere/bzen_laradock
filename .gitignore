@@ -23,5 +23,6 @@
 !/.devcontainer/docker-compose.extend-example.yml
 
 docker-compose.custom.yml
+.docker
 
 .DS_Store
